@@ -28,7 +28,7 @@ This project helps HR teams and recruiters by ranking or classifying resumes bas
 ## 🚀 How to Run
 1. Clone the repo  
 2. Add your resumes and job descriptions to the `/data` folder  
-3. Run `python resume_screening.py`  
+3. Run `python Resume_Screening.py`  
 4. View ranked output in terminal or output file
 
 ## 📌 Future Improvements
